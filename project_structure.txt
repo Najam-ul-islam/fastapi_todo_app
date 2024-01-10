@@ -1,0 +1,19 @@
+- todo_project/
+  - app/
+    - __init__.py
+    - main.py
+    - models.py
+    - crud.py
+    - database.py
+    - auth.py
+  - tests/
+    - __init__.py
+    - test_main.py
+  - streamlit_client/
+    - app.py
+  - python_console_client/
+    - app.py
+  - ts_nodejs_console_client/
+    - app.ts
+  - .env
+  - pyproject.toml
